@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../arm-al/arm-al.iml" filepath="$PROJECT_DIR$/../arm-al/arm-al.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../arm-comms/arm-comms.iml" filepath="$PROJECT_DIR$/../arm-comms/arm-comms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../arm-configs/arm-configs.iml" filepath="$PROJECT_DIR$/../arm-configs/arm-configs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../arm-core/arm-core.iml" filepath="$PROJECT_DIR$/../arm-core/arm-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../arm-eureka/arm-eureka.iml" filepath="$PROJECT_DIR$/../arm-eureka/arm-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../arm-facade/arm-facade.iml" filepath="$PROJECT_DIR$/../arm-facade/arm-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../arm-imgs/arm-imgs.iml" filepath="$PROJECT_DIR$/../arm-imgs/arm-imgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arm-master.iml" filepath="$PROJECT_DIR$/arm-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../arm-orm/arm-orm.iml" filepath="$PROJECT_DIR$/../arm-orm/arm-orm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../arm-sys/arm-sys.iml" filepath="$PROJECT_DIR$/../arm-sys/arm-sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-facade/spring-cloud-facade.iml" filepath="$PROJECT_DIR$/../spring-cloud-facade/spring-cloud-facade.iml" />
+    </modules>
+  </component>
+</project>

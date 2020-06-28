@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="arm-al:war">
+    <output-path>$PROJECT_DIR$/../arm-al/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>arm-al</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="arm-al-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="arm-al:war exploded" />
+    </root>
+  </artifact>
+</component>

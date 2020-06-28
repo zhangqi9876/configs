@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../arm-al/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-al/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-comms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-configs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-configs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-facade/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-imgs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-imgs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-orm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-sys/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-sys/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-zuul-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../arm-zuul-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-facade/src/main/java" charset="GBK" />
+  </component>
+</project>

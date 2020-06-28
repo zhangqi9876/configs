@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="arm-imgs:war">
+    <output-path>$PROJECT_DIR$/../arm-imgs/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>arm-imgs</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="arm-imgs-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="arm-imgs:war exploded" />
+    </root>
+  </artifact>
+</component>

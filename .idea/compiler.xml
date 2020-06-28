@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="arm-imgs" />
+        <module name="arm-orm" />
+        <module name="arm-comms" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="arm-al" target="1.8" />
+      <module name="arm-comms" target="1.8" />
+      <module name="arm-configs" target="1.8" />
+      <module name="arm-core" target="1.8" />
+      <module name="arm-eureka" target="1.8" />
+      <module name="arm-facade" target="1.8" />
+      <module name="arm-imgs" target="1.8" />
+      <module name="arm-orm" target="1.8" />
+      <module name="arm-parent" target="1.8" />
+      <module name="arm-sys" target="1.8" />
+      <module name="arm-zuul-web" target="1.5" />
+      <module name="spring-cloud-facade" target="1.5" />
+      <module name="vvpen-orm-core" target="1.8" />
+      <module name="vvpen-tools" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="arm-al" options="-parameters" />
+      <module name="arm-comms" options="-parameters" />
+      <module name="arm-configs" options="-parameters" />
+      <module name="arm-core" options="-parameters" />
+      <module name="arm-eureka" options="-parameters" />
+      <module name="arm-facade" options="-parameters" />
+      <module name="arm-imgs" options="-parameters" />
+      <module name="arm-orm" options="-parameters" />
+      <module name="arm-sys" options="-parameters" />
+      <module name="arm-zuul-web" options="-parameters" />
+    </option>
+  </component>
+</project>

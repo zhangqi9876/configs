@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="arm-zuul-web:war">
+    <output-path>$PROJECT_DIR$/../arm-zuul-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>arm-zuul-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="arm-zuul-web-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="arm-zuul-web:war exploded" />
+    </root>
+  </artifact>
+</component>
